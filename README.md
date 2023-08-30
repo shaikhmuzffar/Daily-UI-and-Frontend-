@@ -5,7 +5,7 @@ Transformed my creative vision designed in Figma into a fully functional webpage
 🔗 **Live Demo:** [View Webpage](your-webpage-link)
 
 📸 **Screenshot:**
-![Webpage Screenshot](screenshot.png)
+Day 1/UI Design/CraveEase.png
 
 🎉 **Key Highlights:**
 - 🎨 Precise conversion of Figma design to pixel-perfect HTML/CSS layout.
